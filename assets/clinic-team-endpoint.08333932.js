@@ -1,1 +1,0 @@
-var a=(I=>(I.LIST="clinical/list",I.DETAIL="clinical/detail",I.ASSIGN_PATIENT_TO_DOCTOR="clinical/assign-patient",I.LIST_PATIENT_ASSIGN_CLINIC="patients/list-patient-assign-clinic",I))(a||{});export{a as C};
